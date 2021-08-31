@@ -13,8 +13,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/sqlite.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/csharp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/git.png"></code>
  
 
