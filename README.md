@@ -9,10 +9,10 @@
 
 **Languages and Tools:**
 
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/kotlin.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/sql-server.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/git.png"></code>
  
 
