@@ -1,4 +1,4 @@
-### Hi there, i'm Raniere 👋
+### Hi there, i'm Raniere - Mobile Developer Flutter👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ranierelm&theme=algolia&show_icons=true&count_private=true)
 
@@ -9,12 +9,12 @@
 
 **Languages and Tools:**
 
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/ts.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ranierelm/ranierelm/main/assets/git.png"></code>
  
 
